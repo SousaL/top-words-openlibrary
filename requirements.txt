@@ -1,0 +1,10 @@
+loguru==0.3.2
+numpy==1.17.1
+pandas==0.25.1
+progressbar2==3.43.1
+pymongo==3.9.0
+python-dateutil==2.8.0
+python-utils==2.3.0
+pytz==2019.2
+six==1.12.0
+urllib3==1.25.3
